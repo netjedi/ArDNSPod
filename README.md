@@ -24,6 +24,10 @@ arDdnsCheck "test.org" "subdomain"
 
 # 最近更新
 
+2019/2/12
+- 从3322.org获取公网ip
+- from members.3322.org/getip get internet ip
+
 2015/2/24
 - 增加token鉴权方式 (by wbchn)
 
