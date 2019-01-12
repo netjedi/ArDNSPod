@@ -7,6 +7,12 @@
 # Edited by ProfFan
 #################################################
 
+#time stamp
+
+local timestamp
+timestamp=$(date +'%Y-%m-%d %H:%M')
+echo $timestamp
+
 # OS Detection
 case $(uname) in
   'Linux')
