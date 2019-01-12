@@ -9,7 +9,6 @@
 
 #time stamp
 
-local timestamp
 timestamp=$(date +'%Y-%m-%d %H:%M')
 echo $timestamp
 
